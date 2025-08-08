@@ -11,7 +11,8 @@ header {
     text-align: center;
     padding: 30px;
     margin: 20px;
-    border: #333 10px;
+    margin-bottom: 40px;
+    border: #333 5px solid;
     box-shadow: #333 0 5px 10px;
     border-radius: 5px;
 }
@@ -43,4 +44,14 @@ section{
     margin-bottom: 30px;
     border-radius: 10px;
     box-shadow: #333 0 5px 10px;
+}
+footer{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: #333 5px solid;
+    box-shadow: #333 0 5px 10px;
+    border-radius: 10px;
 }
